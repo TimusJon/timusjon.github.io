@@ -1,0 +1,27 @@
+#grad {
+    background: #f79d00;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64f38c, #f79d00);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64f38c, #f79d00);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    color: #a12e1a
+}
+
+h4 {
+    color: #1a4cb9;
+}
+
+h5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: #962a17c7
+}
+
+em {
+    color: #a12e1a
+}
